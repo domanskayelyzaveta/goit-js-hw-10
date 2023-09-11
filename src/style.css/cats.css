@@ -48,20 +48,32 @@
     }
 }
 
+
+.cat-info {
+background-color: rgba(255, 255, 255, 0.5);
+}
+
 .body {
-background-color: grey;
+background-color: plum;
+background-image: url(/img/vector.png);
+background-size: cover;
+background-repeat: no-repeat;
 }
 
 img{
 margin-top: 10px;
 }
 
+text{
+background-color: #FFC0CB;
+}
+
 h2 {
-color: red;
+color: #6A5ACD;
 }
 
 h3 {
-color: darkgray;
+color: cadetblue;
 }
 
 select {
